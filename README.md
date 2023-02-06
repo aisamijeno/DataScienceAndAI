@@ -1,6 +1,5 @@
 # Data Science And Artificial Intelligence
-CpElec2
-Engr. Aisa Mijeno-Labastilla
+CpElec2 | Engr. Aisa Mijeno-Labastilla
 
 ## This is Day 1 of learning the basics of data processing.
 
